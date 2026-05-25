@@ -14,6 +14,7 @@
 | 08 | Document Intelligence Pipeline | Document Intelligence Pipeline วิเคราะห์และสกัดข้อมูลจากเอกสารภาษาไทยอัตโนมัติ รองรับเอกสารหลากหลายประเภท เช่น ใบแจ้งหนี้ สัญญา รายงาน หนังสือราชการ และเอกสารทั่วไป |[App](https://mmplb4mnbg5appk3vdxeryp.streamlit.app/) | |[Code](https://github.com/khala1391/DS_Document-Intelligence-Pipeline)|
 | 09 | House Price Prediction — Bangalore (OLS) | Linear regression web app predicting residential property prices in Bangalore. Interactive map interface for location selection across 57 geocoded areas. R² = 0.78, CV mean = 0.81 (5-fold) | [App](https://85zg4bppzcapm3kq36cup2.streamlit.app/) | | [Code](https://github.com/khala1391/DS_HousePredict_OLS) |
 | 10 | AI LLM Chatbot — Multi-Provider | Multi-provider LLM chatbot integrating Groq (Llama, Gemma), Google Gemini, and OpenAI (GPT-4o, GPT-4.1) with real-time streaming, model selection, and adjustable parameters | [App](https://wpszgj7j4wshexzebbtxjt.streamlit.app/) | | [Code](https://github.com/khala1391/AI_LLM_Chatbot) |
+| 11 | RAG QA — Chat with Your Documents | Retrieval-Augmented Generation QA system with NotebookLM-style UI. Uses HuggingFace MiniLM embeddings, FAISS vector store, and Groq LLMs (Llama 3.3/3.1, Gemma 2, Mixtral). Supports PDF/TXT/MD/DOCX plus scanned PDFs and images via Tesseract OCR (eng+tha) | [App](https://huggingface.co/spaces/yuttapong/rag-qa) | | [Code](https://github.com/khala1391/RAG_QA) |
 
 ---
 
